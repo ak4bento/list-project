@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@sindresorhus/xbar": "^2.0.0",
+    "autobot-git": "^1.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
